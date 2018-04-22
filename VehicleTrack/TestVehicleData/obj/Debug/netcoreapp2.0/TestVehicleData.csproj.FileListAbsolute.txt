@@ -1,0 +1,17 @@
+C:\Projects\VehicleTrack\VehicleTrack\TestVehicleData\obj\Debug\netcoreapp2.0\TestVehicleData.csprojResolveAssemblyReference.cache
+C:\Projects\VehicleTrack\VehicleTrack\TestVehicleData\obj\Debug\netcoreapp2.0\TestVehicleData.csproj.CoreCompileInputs.cache
+C:\Projects\VehicleTrack\VehicleTrack\TestVehicleData\obj\Debug\netcoreapp2.0\TestVehicleData.AssemblyInfoInputs.cache
+C:\Projects\VehicleTrack\VehicleTrack\TestVehicleData\obj\Debug\netcoreapp2.0\TestVehicleData.AssemblyInfo.cs
+C:\Projects\VehicleTrack\VehicleTrack\TestVehicleData\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\VehicleTrack\VehicleTrack\TestVehicleData\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\VehicleTrack\VehicleTrack\TestVehicleData\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\VehicleTrack\VehicleTrack\TestVehicleData\bin\Debug\netcoreapp2.0\TestVehicleData.deps.json
+C:\Projects\VehicleTrack\VehicleTrack\TestVehicleData\bin\Debug\netcoreapp2.0\TestVehicleData.runtimeconfig.json
+C:\Projects\VehicleTrack\VehicleTrack\TestVehicleData\bin\Debug\netcoreapp2.0\TestVehicleData.runtimeconfig.dev.json
+C:\Projects\VehicleTrack\VehicleTrack\TestVehicleData\bin\Debug\netcoreapp2.0\TestVehicleData.dll
+C:\Projects\VehicleTrack\VehicleTrack\TestVehicleData\bin\Debug\netcoreapp2.0\TestVehicleData.pdb
+C:\Projects\VehicleTrack\VehicleTrack\TestVehicleData\bin\Debug\netcoreapp2.0\VehicleData.dll
+C:\Projects\VehicleTrack\VehicleTrack\TestVehicleData\bin\Debug\netcoreapp2.0\VehicleData.pdb
+C:\Projects\VehicleTrack\VehicleTrack\TestVehicleData\obj\Debug\netcoreapp2.0\TestVehicleData.csproj.CopyComplete
+C:\Projects\VehicleTrack\VehicleTrack\TestVehicleData\obj\Debug\netcoreapp2.0\TestVehicleData.dll
+C:\Projects\VehicleTrack\VehicleTrack\TestVehicleData\obj\Debug\netcoreapp2.0\TestVehicleData.pdb

@@ -1,0 +1,9 @@
+C:\Projects\VehicleTrack\VehicleTrack\VehicleData\bin\Debug\netcoreapp2.0\VehicleData.deps.json
+C:\Projects\VehicleTrack\VehicleTrack\VehicleData\bin\Debug\netcoreapp2.0\VehicleData.dll
+C:\Projects\VehicleTrack\VehicleTrack\VehicleData\obj\Debug\netcoreapp2.0\VehicleData.csproj.CoreCompileInputs.cache
+C:\Projects\VehicleTrack\VehicleTrack\VehicleData\obj\Debug\netcoreapp2.0\VehicleData.AssemblyInfoInputs.cache
+C:\Projects\VehicleTrack\VehicleTrack\VehicleData\obj\Debug\netcoreapp2.0\VehicleData.AssemblyInfo.cs
+C:\Projects\VehicleTrack\VehicleTrack\VehicleData\bin\Debug\netcoreapp2.0\VehicleData.pdb
+C:\Projects\VehicleTrack\VehicleTrack\VehicleData\obj\Debug\netcoreapp2.0\VehicleData.csprojResolveAssemblyReference.cache
+C:\Projects\VehicleTrack\VehicleTrack\VehicleData\obj\Debug\netcoreapp2.0\VehicleData.dll
+C:\Projects\VehicleTrack\VehicleTrack\VehicleData\obj\Debug\netcoreapp2.0\VehicleData.pdb

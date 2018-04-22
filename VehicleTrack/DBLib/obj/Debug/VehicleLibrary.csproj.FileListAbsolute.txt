@@ -1,0 +1,13 @@
+C:\Projects\liteDB\liteDB\DBLib\obj\Debug\VehicleLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\liteDB\liteDB\DBLib\obj\Debug\DBLib.dll
+C:\Projects\liteDB\liteDB\DBLib\obj\Debug\DBLib.pdb
+C:\Projects\liteDB\liteDB\DBLib\bin\Debug\DBLib.dll
+C:\Projects\liteDB\liteDB\DBLib\bin\Debug\DBLib.pdb
+C:\Projects\liteDB\liteDB\DBLib\obj\Debug\VehicleLibrary.csprojResolveAssemblyReference.cache
+C:\Projects\VehicleTrack\VehicleTrack\DBLib\bin\Debug\DBLib.dll
+C:\Projects\VehicleTrack\VehicleTrack\DBLib\bin\Debug\DBLib.pdb
+C:\Projects\VehicleTrack\VehicleTrack\DBLib\obj\Debug\VehicleLibrary.csprojResolveAssemblyReference.cache
+C:\Projects\VehicleTrack\VehicleTrack\DBLib\obj\Debug\VehicleLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\VehicleTrack\VehicleTrack\DBLib\obj\Debug\VehicleLibrary.csproj.CopyComplete
+C:\Projects\VehicleTrack\VehicleTrack\DBLib\obj\Debug\DBLib.dll
+C:\Projects\VehicleTrack\VehicleTrack\DBLib\obj\Debug\DBLib.pdb

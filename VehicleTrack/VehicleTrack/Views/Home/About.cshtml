@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "About";
+}
+<h2>@ViewData["Title"]</h2>
+<hr />
+<h3>@ViewData["Message"]</h3>
+<h3>@ViewData["Author"]</h3>
+<hr />
+<p>
+    <b>For</b> this project to work you will need the <b>Nuget package for (LiteDB 4.1.2).  </b>
+    I choose LiteDB because it is a serverless, noSQL database that works well for small apps
+    It also demonstrates wrapping a library and encapsulating API functions into a easier class to work with.
+</p>
+<br />
+<p><b>This</b> exercise demonstratates the use of SOLID principles:</p>
+<p>
+    Objects were designed to perform specific processes for a single actor
+</p>
+<p> The design should allow us to keep interfaces segregated for future enhancements, and objects should be able to be extended rather than changed after this release.</p>
+<p>
+    The vehicle model is decoupled from the database.  The Database Context class expects that all database suppliers are created using the IVehicleDataSupplier interface and expects it to be injected into its contructor.
+    Hence, the controller can create the supplier that it desires and inject it into the modelDBContext
+</p>
+<p> This also uses a Factory Method so we can create vehicles with consistent specific attributes values.  It also allows us to modify any vehicle type and change these attributes. </p>
+<br />
+<p><b>This</b> exercise also contains the beginning of TDD using a MS Test runner in a separate project. I used TDD to test the LiteDB database supplier.</p>
+<br />
+<p>
+    <b>Note:</b> There are obvious enhancements that could be covered with this assignment.
+    However, given the limitted time frame, I will simply list some of the other ideas I had for this assigment:
+</p>
+<li>Skin the application with a more modern UI using bootstrap use CSS better </li>
+<li>Provide validation on create and edit pages</li>
+<li>Implement an error log and better error handling</li>
+<li>Make the vehicle type dropdown popluate from a ViewData element instead of hardcoding</li>
+<li>Additional unit tests to also test unhappy paths</li>
+
